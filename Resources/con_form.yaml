@@ -1,0 +1,13 @@
+---
+intake_form:
+  date: 2015-05-08
+  first_name: Coney
+  last_name: Dacanay
+  birth_date: 1988-01-01
+  annual_income: 200000
+  initial_investment: 75000
+  occupation: 
+  investment_goals: growth
+  investment_time_horizon: 20
+  risk_tolerance: medium
+  investment_constraints: none 

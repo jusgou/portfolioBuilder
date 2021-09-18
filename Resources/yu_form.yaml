@@ -1,0 +1,13 @@
+---
+intake_form:
+  date: 2018-05-07 
+  first_name: Yu
+  last_name: Wang
+  birth_date: 1985-01-01
+  annual_income: 100000
+  initial_investment: 20000
+  occupation: 
+  investment_goals: growth
+  investment_time_horizon: 15
+  risk_tolerance: high
+  investment_constraints: none 

@@ -1,0 +1,13 @@
+---
+intake_form:
+  date: 2015-12-05
+  first_name: Dipendra
+  last_name: Shastri
+  birth_date: 1982-01-01
+  annual_income: 150000
+  initial_investment: 50000
+  occupation: 
+  investment_goals: growth
+  investment_time_horizon: 30
+  risk_tolerance: high
+  investment_constraints: none 

@@ -1,0 +1,13 @@
+---
+intake_form:
+  date: 2021-03-08
+  first_name: Sherin
+  last_name: Sher
+  birth_date: 1985-01-01
+  annual_income: 75000
+  initial_investment: 20000
+  occupation: 
+  investment_goals: growth
+  investment_time_horizon: 10
+  risk_tolerance: low
+  investment_constraints: none 

@@ -1,0 +1,13 @@
+---
+intake_form:
+  date: 2019-07-08
+  first_name: Justin
+  last_name: Gouin
+  birth_date: 1987-11-07
+  annual_income: 100000
+  initial_investment: 20000
+  occupation: 
+  investment_goals: growth
+  investment_time_horizon: 30
+  risk_tolerance: high
+  investment_constraints: none 
